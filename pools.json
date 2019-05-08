@@ -1,5 +1,215 @@
 [
   {
+    "poolName": "Suprnova",
+    "url": "https://zen.suprnova.cc/",
+    "searchStrings": [
+     "znVbaP53KynS6Ar8a3jud93arsbEuhDmDhm"
+    ]
+  },
+  {
+    "poolName": "Zenpool.io",
+    "url": "http://zenpool.io/stats",
+    "searchStrings": [
+     "zneBj6oqJDY4T1qHtjYenpDyiEgLmNtuYn5"
+    ]
+  },
+  {
+    "poolName": "Equihash Pro",
+    "url": "https://equihash.pro",
+    "searchStrings": [
+     "znfBcxbjVrx9GziehQeDi3W5h8VhumwpkNs"
+     "equihash.pro"
+    ]
+  },
+  {
+    "poolName": "BC Monster",
+    "url": "http://zen.bcmonster.com",
+    "searchStrings": [
+     "znTeXGoEjk7MnCnET7KfzfKUjXz7iF4XKuc"
+    ]
+  },
+  {
+    "poolName": "Fast Blocks",
+    "url": "https://fastblocks.net/",
+    "searchStrings": [
+     "zna9urbqyihKf2R86Kktoi5FhS7xXwrHXaY"
+    ]
+  },
+  {
+    "poolName": "ZPool",
+    "url": "https://zpool.ca/",
+    "searchStrings": [
+     "zszpcLB6C5B8QvfDbF2dYWXsrpac5DL9WRk",
+     "zpool.ca"
+    ]
+  },
+  {
+    "poolName": "Hash United",
+    "url": "https://hashunited.com/",
+    "searchStrings": [
+     "znRQegAg61LRTjD69gfkg5uzM2aSiovjH8M"
+     "Hashunited.com"
+    ]
+  },
+  {
+    "poolName": "Zergpool",
+    "url": "https://zergpool.com",
+    "searchStrings": [
+     "znnLyFPEz5MSFxvGEApLeb81tnZnd1vgM3d"
+     "http://zergpool.com"
+    ]
+  },
+  {
+    "poolName": "Saturn Pool",
+    "url": "https://zen.saturnpool.com",
+    "searchStrings": [
+     "znbxz4A6ZqiNLe6bCNTq14PX3w2r589t4vF"
+    ]
+  },
+  {
+    "poolName": "Zen Best Pool",
+    "url": "http://zen.bstpl.org",
+    "searchStrings": [
+     "znoLEuq7ZiiNfLuwnQtUp2oZ5L87CLKr719"
+    ]
+  },
+  {
+    "poolName": "Mining-Dutch.nl",
+    "url": "https://www.mining-dutch.nl/pools/horizen.php",
+    "searchStrings": [
+     "znnQPdWkZR8N6hkuHHwB46J6FxXhRwuAapm"
+    ]
+  },
+  {
+    "poolName": "Basement Pool",
+    "url": "https://zen.basementpool.org",
+    "searchStrings": [
+     "znofjdWUWb6Jbuvg318nu6Ge9idpxa8j6fm"
+    ]
+  },
+  {
+    "poolName": "Equihub.pro",
+    "url": "https://zen.equihub.pro/",
+    "searchStrings": [
+     "znbRKD6WYnZWVTHzgMKrKjpvtXxvvs5SM5P"
+     "https://zen.equihub.pro"
+    ]
+  },
+  {
+    "poolName": "Equihub.pro [Solo]",
+    "url": "https://solo-zen.equihub.pro/",
+    "searchStrings": [
+     "znUR5EBEyKUz9uWHGPiky9t44uJyWuyfTYx"
+    ]
+  },
+  {
+    "poolName": "Bitpool",
+    "url": "https://zen.bitpool.ro/",
+    "searchStrings": [
+     "znRShgvqwHgHrvV9py1hZ7V9ntdJaaSGHaB"
+    ]
+  },
+  {
+    "poolName": "WhibbitPool",
+    "url": "https://pool.whibbit.cn",
+    "searchStrings": [
+     "zncGGVDtYFKByuJqsvzhSo2UJQKNnVC84rW"
+    ]
+  },
+  {
+    "poolName": "4Miners.ru",
+    "url": "http://equihash.4miners.ru/",
+    "searchStrings": [
+     "http://equihash.4miners.ru/"
+    ]
+  },
+  {
+    "poolName": "Zen.FairHash.org",
+    "url": "https://zen.fairhash.org/",
+    "searchStrings": [
+     "znRobcLBKFcuVEhvsWdMXZRpvghiRo2zZrC"
+    ]
+  },
+  {
+    "poolName": "f2pool",
+    "url": "https://www.f2pool.com/",
+    "searchStrings": [
+     "znUovxhrE91tep6D7YtgSc3XJZoYQLVDwVn"
+    ]
+  },
+  {
+    "poolName": "Private Altpool.pro",
+    "url": "http://private.altpool.pro",
+    "searchStrings": [
+     "http://private.altpool.pro"
+    ]
+  },
+  {
+    "poolName": "Private Zen-Solutions.io",
+    "url": "https://private.zen-solutions.io",
+    "searchStrings": [
+     "mining.zen-solutions.io"
+    ]
+  },
+  {
+    "poolName": "Zen.Altpool.pro",
+    "url": "http://zen.altpool.pro/",
+    "searchStrings": [
+     "znUkAG3BfVgwcA7oreGsKqAYfJ3hDiGcqjG",
+     "http://altpool.pro"
+    ]
+  },
+  {
+    "poolName": "Mining Pool Hub",
+    "url": "https://zencash.miningpoolhub.com",
+    "searchStrings": [
+     "znm27wSjzh6tqXKTXiCk2VCcEhSFT6nAd7i"
+    ]
+  },
+  {
+    "poolName": "Zen Solopool",
+    "url": "https://zen.solopool.org",
+    "searchStrings": [
+     "znX1NCE5Knn1X8ELpXd1AzygeZh83NUMZmW"
+    ]
+  },
+  {
+    "poolName": "Equipool",
+    "url": "https://equipool.1ds.us",
+    "searchStrings": [
+     "znR8HGVW9Aa4Wa3LFrPrMXUvysrw7u5p3Mi"
+    ]
+  },
+  {
+    "poolName": "2miners-solo",
+    "url": "https://solo-zen.2miners.com",
+    "searchStrings": [
+     "znmt1G2rJC5TLoYKSzwcpmcqSX7RzkU7Mrc"
+    ]
+  },
+  {
+    "poolName": "2miners-shared",
+    "url": "https://zen.2miners.com",
+    "searchStrings": [
+     "znZxVgtdGiG8iW96yAuYx749PuvwGxxZKnH"
+     "2Miners https://2miners.com"
+    ]
+  },
+  {
+    "poolName": "MinerManiac.com",
+    "url": "http://www.minermaniac.com/",
+    "searchStrings": [
+      "MinerManiac.com http://www.minermaniac.com/"
+    ]
+  },
+  {
+    "poolName": "Z Hash",
+    "url": "https://zen.zhash.pro",
+    "searchStrings": [
+      "znT97ZWxKe265XzFxkg3FRQe5ZKGKv2nzwU"
+    ]
+  },
+  {
     "poolName": "Bitfly",
     "url": "https://zen.flypool.org/",
     "searchStrings": [
@@ -7,6 +217,38 @@
     ]
   },
   {
+    "poolName": "Z-NOMP!",
+    "url": "https://github.com/joshuayabut/z-nomp",
+    "searchStrings": [
+      "Z-NOMP! https://github.com/joshuayabut/z-nomp",
+      "Z-NOMP! https://github.com/z-classic/z-nomp",
+      "z-nomp pool https://github.com/z-nomp/z-nomp/wiki/Insight-pool-link",
+      "z-nomp"
+    ]
+  },
+  {
+    "poolName": "S-NOMP!",
+    "url": "https://github.com/s-nomp/s-nomp/wiki/Insight-pool-link",
+    "searchStrings": [
+      "s-nomp"
+    ]
+  },
+  {
+    "poolName": "Miningspeed.com",
+    "url": "https://pool.miningspeed.com",
+    "searchStrings": [
+      "miningspeed.com - http://pool.miningspeed.com"
+    ]
+  },
+  {
+    "poolName": "Luckpool",
+    "url": "https://luckpool.net",
+    "searchStrings": [
+      "znd8rcAKaRyRqXZK4XRDFmnop1KwdT61Jkt"
+      "luckpool.org http://luckpool.org"
+    ]
+  },
+ {
     "poolName": "NaN",
     "url": "",
     "searchStrings": [
@@ -26,5 +268,96 @@
     "searchStrings": [
       "{ZMINE.IO}"
     ]
+  },
+  {
+    "poolName": "Someone using equihash-solomining!",
+    "url": "https://github.com/aayanl/equihash-solomining",
+    "searchStrings": [
+      "EquihashSolominer!-github.com/aayanl/equihash-solomining"
+    ]
+  },
+  {
+    "poolName": "Scottrock Cafe",
+    "url": "http://mining.scottrockcafe.com",
+    "searchStrings": [
+      "http://mining.scottrockcafe.com"
+    ]
+  },
+  {
+    "poolName": "Mad Mining Club",
+    "url": "https://madmining.club/",
+    "searchStrings": [
+      "http://madmining.club"
+    ]
+  },
+  {
+    "poolName": "Hushpool.cloud",
+    "url": "http://hushpool.cloud/",
+    "searchStrings": [
+      "http://hushpool.cloud"
+    ]
+  },
+  {
+    "poolName": "GetPool",
+    "url": "http://getpool.network/",
+    "searchStrings": [
+      "http://getpool.network/"
+    ]
+  },
+  {
+    "poolName": "Hashgate",
+    "url": "http://hashgate.eu",
+    "searchStrings": [
+      "hashgate.eu"
+    ]
+  },
+  {
+    "poolName": "Zencash Cloud",
+    "url": "http://zencash.cloud",
+    "searchStrings": [
+       "ZENCASH.CLOUD - http://zencash.cloud."
+    ]
+  },
+  {
+    "poolName": "Coinfoundry.org",
+    "url": "https://coinfoundry.org",
+    "searchStrings": [
+      "https://coinfoundry.org"
+   ]
+  },
+  {
+    "poolName": "Zenmine Pro",
+    "url": "https://zenmine.pro",
+    "searchStrings": [
+      "znfu8wLQcUVdk1dPiEKxXEVxEjLYqYS4CcL"
+   ]
+  },
+  {
+    "poolName": "NibiruPool",
+    "url": "http://nibirupool.com",
+    "searchStrings": [
+      "NibiruPool http://nibirupool.com/"
+   ]
+  },
+  {
+    "poolName": "Luxor.tech",
+    "url": "https://mining.luxor.tech",
+    "searchStrings": [
+      "zncpcLL41K88b84PNkR5iznwqw9xwsChpuX"
+   ]
+  },
+  {
+    "poolName": "ZenPool",
+    "url": "https://ZenPool.org",
+    "searchStrings": [
+      "https://ZenPool.org"
+   ]
+  },
+  {
+    "poolName": "SG Pool",
+    "url": "https://zen.sgpool.net",
+    "searchStrings": [
+      "SGPool https://zen.sgpool.net"
+   ]
   }
 ]
