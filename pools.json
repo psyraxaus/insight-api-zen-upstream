@@ -17,7 +17,7 @@
     "poolName": "Equihash Pro",
     "url": "https://equihash.pro",
     "searchStrings": [
-     "znfBcxbjVrx9GziehQeDi3W5h8VhumwpkNs"
+     "znfBcxbjVrx9GziehQeDi3W5h8VhumwpkNs",
      "equihash.pro"
     ]
   },
@@ -47,7 +47,7 @@
     "poolName": "Hash United",
     "url": "https://hashunited.com/",
     "searchStrings": [
-     "znRQegAg61LRTjD69gfkg5uzM2aSiovjH8M"
+     "znRQegAg61LRTjD69gfkg5uzM2aSiovjH8M",
      "Hashunited.com"
     ]
   },
@@ -55,7 +55,7 @@
     "poolName": "Zergpool",
     "url": "https://zergpool.com",
     "searchStrings": [
-     "znnLyFPEz5MSFxvGEApLeb81tnZnd1vgM3d"
+     "znnLyFPEz5MSFxvGEApLeb81tnZnd1vgM3d",
      "http://zergpool.com"
     ]
   },
@@ -91,7 +91,7 @@
     "poolName": "Equihub.pro",
     "url": "https://zen.equihub.pro/",
     "searchStrings": [
-     "znbRKD6WYnZWVTHzgMKrKjpvtXxvvs5SM5P"
+     "znbRKD6WYnZWVTHzgMKrKjpvtXxvvs5SM5P",
      "https://zen.equihub.pro"
     ]
   },
@@ -145,6 +145,13 @@
     ]
   },
   {
+    "poolName": "MinerBay",
+    "url": "http://minerbay.org/",
+    "searchStrings": [
+     "MinerBay https://minerbay.org"
+    ]
+  },
+  {
     "poolName": "Private Zen-Solutions.io",
     "url": "https://private.zen-solutions.io",
     "searchStrings": [
@@ -181,6 +188,13 @@
     ]
   },
   {
+    "poolName": "Power Mining Pool",
+    "url": "https://www.powermining.pw",
+    "searchStrings": [
+     "znTYmw44CaZVwynhR12wfVT5fkKoyhiTxq8"
+    ]
+  },
+  {
     "poolName": "2miners-solo",
     "url": "https://solo-zen.2miners.com",
     "searchStrings": [
@@ -191,7 +205,7 @@
     "poolName": "2miners-shared",
     "url": "https://zen.2miners.com",
     "searchStrings": [
-     "znZxVgtdGiG8iW96yAuYx749PuvwGxxZKnH"
+     "znZxVgtdGiG8iW96yAuYx749PuvwGxxZKnH",
      "2Miners https://2miners.com"
     ]
   },
@@ -244,7 +258,7 @@
     "poolName": "Luckpool",
     "url": "https://luckpool.net",
     "searchStrings": [
-      "znd8rcAKaRyRqXZK4XRDFmnop1KwdT61Jkt"
+      "znd8rcAKaRyRqXZK4XRDFmnop1KwdT61Jkt",
       "luckpool.org http://luckpool.org"
     ]
   },
@@ -351,6 +365,20 @@
     "url": "https://ZenPool.org",
     "searchStrings": [
       "https://ZenPool.org"
+   ]
+  },
+  {
+    "poolName": "Raptor Pool",
+    "url": "http://zen.raptorpool.org/",
+    "searchStrings": [
+      "zngS3KpASQ1yMfjBaB4mDm4kvCHDPDz9ebB"
+   ]
+  },
+  {
+    "poolName": "Matpool",
+    "url": "http://matpool.io/",
+    "searchStrings": [
+      "znc869WjXzuQp77u9pzc5Zhwo9hAqyVx993"
    ]
   },
   {
