@@ -3,7 +3,40 @@
     "poolName": "Suprnova",
     "url": "https://zen.suprnova.cc/",
     "searchStrings": [
-     "znVbaP53KynS6Ar8a3jud93arsbEuhDmDhm"
+     "znbetDALMiEo1bqKPJuwjMEXHWRd2w2eK3R",
+     "znVbaP53KynS6Ar8a3jud93arsbEuhDmDhm",
+     "znkmhwKuEv4mWDBrWrV9dbAYQAYrL54QhQ7",
+     "znduH32eF2PDPGHw3CszaJfXSiEytVqjTLD"
+    ]
+  },
+  {
+    "poolName": "baikalmine Solo",
+    "url": "https://baikalmine.com/en/solo/zen",
+    "searchStrings": [
+     "znYbaNT9JUJABp2GugM8taMjZY2nBrMdSY5"
+    ]
+  },
+  {
+    "poolName": "Poolin",
+    "url": "https://poolin.com/",
+    "searchStrings": [
+     "zneQYpWLaZNwLwBJEuySjYW9qD4Kao2jBLQ"
+    ]
+  },
+  {
+    "poolName": "Hashloft",
+    "url": "https://hashloft.io/",
+    "searchStrings": [
+     "zndYZK8aue6HJ2sk2jXkqAZXR5JEvHWydCG",
+     "znd8o694uYNrnEdpHJ1Puibb4H7upaCc5sQ",
+     "https://hashloft.io/"
+    ]
+  },
+  {
+    "poolName": "baikalmine Pool",
+    "url": "https://baikalmine.com/en/pool/zen",
+    "searchStrings": [
+     "znRyQGfpXXH3TxFUs1NP8PBmGJAGR9WrsVG"
     ]
   },
   {
@@ -120,7 +153,8 @@
     "poolName": "4Miners.ru",
     "url": "http://equihash.4miners.ru/",
     "searchStrings": [
-     "http://equihash.4miners.ru/"
+     "http://equihash.4miners.ru/",
+     "znWDNgdnz5P9Nwxee1V2he9ZEefduRSnPKj"
     ]
   },
   {
@@ -148,6 +182,7 @@
     "poolName": "MinerBay",
     "url": "http://minerbay.org/",
     "searchStrings": [
+     "znXQAU1uJEXcodEjhrWy6FrTe2jgfmDCkVp",
      "MinerBay https://minerbay.org"
     ]
   },
@@ -159,11 +194,26 @@
     ]
   },
   {
+    "poolName": "Pandamines.com",
+    "url": "https://pandamines.com/",
+    "searchStrings": [
+     "znTc4AE6zCfGgedaPUZRxxenb2cE6Rq4a1C"
+    ]
+  },
+  {
+    "poolName": "Zuzuca",
+    "url": "https://zen.zuzuca.ro",
+    "searchStrings": [
+     "znTCSX9SEjebKf3GZUZ7B47LCq31USnTgTS"
+    ]
+  },
+  {
     "poolName": "Zen.Altpool.pro",
     "url": "http://zen.altpool.pro/",
     "searchStrings": [
      "znUkAG3BfVgwcA7oreGsKqAYfJ3hDiGcqjG",
-     "http://altpool.pro"
+     "http://altpool.pro",
+     "znTmBv9E8NRUenTvXYd9Hs7XSq4SgDsYk9r"
     ]
   },
   {
@@ -177,7 +227,8 @@
     "poolName": "Zen Solopool",
     "url": "https://zen.solopool.org",
     "searchStrings": [
-     "znX1NCE5Knn1X8ELpXd1AzygeZh83NUMZmW"
+     "znX1NCE5Knn1X8ELpXd1AzygeZh83NUMZmW",
+     "znna9sm4zkx2G8Zk8gVciCxKS9tKYDYYQ1L"
     ]
   },
   {
@@ -191,6 +242,8 @@
     "poolName": "Power Mining Pool",
     "url": "https://www.powermining.pw",
     "searchStrings": [
+     "zndaJ5SX7CnikQRhEBhoHtJomP6hKLnYiLF",
+     "zngX1bV6tq9EZmYTXbevQJFJ98ZLaaqwMzx",
      "znTYmw44CaZVwynhR12wfVT5fkKoyhiTxq8"
     ]
   },
@@ -198,7 +251,8 @@
     "poolName": "2miners-solo",
     "url": "https://solo-zen.2miners.com",
     "searchStrings": [
-     "znmt1G2rJC5TLoYKSzwcpmcqSX7RzkU7Mrc"
+     "znmt1G2rJC5TLoYKSzwcpmcqSX7RzkU7Mrc",
+     "znmy88KCHFKWynWbUpVjfTXN4s8s4g73dPX"
     ]
   },
   {
@@ -206,7 +260,7 @@
     "url": "https://zen.2miners.com",
     "searchStrings": [
      "znZxVgtdGiG8iW96yAuYx749PuvwGxxZKnH",
-     "2Miners https://2miners.com"
+     "znkK6MfM7oe3ZetNSb9ixFQF4jeQdX1s8Si"
     ]
   },
   {
@@ -220,7 +274,39 @@
     "poolName": "Z Hash",
     "url": "https://zen.zhash.pro",
     "searchStrings": [
-      "znT97ZWxKe265XzFxkg3FRQe5ZKGKv2nzwU"
+      "znT97ZWxKe265XzFxkg3FRQe5ZKGKv2nzwU",
+      "znX8hgCC5oaiKHAj9BCz7iwRAW51PeBa5rf",
+      "znnTHcabi17DXf9ksLoC9ZZBVkR4Zb7XPxp",
+      "znTyzLKM4VrWjSt8eyS7DQeJgueyT73kSRM",
+      "znSXjNq4wLHrh4XDaM75XPg3VDopxL7j4Gq"
+    ]
+  },
+  {
+    "poolName": "SOLO Mining",
+    "url": "http://zencoin.su",
+    "searchStrings": [
+      "znUCnSPuRbihsUAzTet5KmvSambkaKLCQzJ"
+    ]
+  },
+  {
+    "poolName": "hebusio",
+    "url": "https://zenpool-eu.hebusio.com",
+    "searchStrings": [
+      "znaFy8QNkjbLu6vwBjzJCDiqxQgc46oMumG"
+    ]
+  },
+  {
+    "poolName": "Zencash Pool.sexy",
+    "url": "http://zen.pool.sexy",
+    "searchStrings": [
+      "zna8D3SXR5TgGBdfyU7b51XgNFqvDE2rCPp"
+    ]
+  },
+  {
+    "poolName": "Crypto Broker",
+    "url": "https://pool.cryptobroker.io/zen",
+    "searchStrings": [
+      "zngu49BdXqVKc3pWgwPHUx2cueDdr2oyaBM"
     ]
   },
   {
@@ -259,6 +345,8 @@
     "url": "https://luckpool.net",
     "searchStrings": [
       "znd8rcAKaRyRqXZK4XRDFmnop1KwdT61Jkt",
+      "znUcZp5BfrEsfj7dq4yeMoNoY3ZPjCZjGWv",
+      "znShwunb1vXQDUB7mVVXAwqLEAra66FHSWg",
       "luckpool.org http://luckpool.org"
     ]
   },
@@ -298,6 +386,13 @@
     ]
   },
   {
+    "poolName": "Aikapool",
+    "url": "http://aikapool.com",
+    "searchStrings": [
+      "znUh2AnfGzr9gGnKVyqBBtZqZr5941cCu9Y"
+    ]
+  },
+  {
     "poolName": "Mad Mining Club",
     "url": "https://madmining.club/",
     "searchStrings": [
@@ -309,6 +404,14 @@
     "url": "http://hushpool.cloud/",
     "searchStrings": [
       "http://hushpool.cloud"
+    ]
+  },
+  {
+    "poolName": "MineZ.Zone",
+    "url": "https://minez.zone",
+    "searchStrings": [
+      "znmaQ2pGG8QWYDd7pJ26kUufYTcLa6eZEQQ",
+      "znWdQWTFgMnQUhWfqLuktP5yJzqoyhNS8Ur"
     ]
   },
   {
@@ -343,7 +446,8 @@
     "poolName": "Zenmine Pro",
     "url": "https://zenmine.pro",
     "searchStrings": [
-      "znfu8wLQcUVdk1dPiEKxXEVxEjLYqYS4CcL"
+      "znfu8wLQcUVdk1dPiEKxXEVxEjLYqYS4CcL",
+      "zncjhVM2DTXJ7UbuygiCbjhnc2RgVBhPRzZ"
    ]
   },
   {
@@ -387,5 +491,19 @@
     "searchStrings": [
       "SGPool https://zen.sgpool.net"
    ]
+  },
+  {
+    "poolName": "ViaBTC",
+    "url": "https://viabtc.com",
+    "searchStrings": [
+     "znndMR7koR6treFnhAfzqX6AHheanpQWerz"
+    ]
+  },
+  {
+    "poolName": "SoloPool",
+    "url": "https://solopool.org",
+    "searchStrings": [
+     "znna9sm4zkx2G8Zk8gVciCxKS9tKYDYYQ1L"
+    ]
   }
 ]
