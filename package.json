@@ -70,14 +70,15 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-zen": "HorizenOfficial/bitcore-lib-zen",
+    "bitcore-lib-zen": "file:../bitcore-lib-zen",
     "bitcore-message-zen": "HorizenOfficial/bitcore-message-zen",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^4.17.15",
     "lru-cache": "^4.0.1",
     "morgan": "^1.7.0",
-    "request": "^2.64.0"
+    "request": "^2.64.0",
+    "zencashjs": "^1.2.7"
   },
   "devDependencies": {
     "chai": "^3.5.0",
