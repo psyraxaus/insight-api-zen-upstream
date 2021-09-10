@@ -70,7 +70,7 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-zen": "file:../bitcore-lib-zen",
+    "bitcore-lib-zen": "HorizenOfficial/bitcore-lib-zen#zendoo-supportPR",
     "bitcore-message-zen": "HorizenOfficial/bitcore-message-zen",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
