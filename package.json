@@ -70,8 +70,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-zen": "HorizenOfficial/bitcore-lib-zen#0.13.20",
-    "bitcore-message-zen": "HorizenOfficial/bitcore-message-zen#1.0.3",
+    "bitcore-lib-zen": "HorizenOfficial/bitcore-lib-zen#v0.13.20",
+    "bitcore-message-zen": "HorizenOfficial/bitcore-message-zen#v1.0.3",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^4.17.15",
