@@ -1,7 +1,7 @@
 {
   "name": "insight-api-zen",
   "description": "A ZenCash blockchain REST and web socket API service for Bitcore Node.",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "repository": "git://github.com/HorizenOfficial/insight-api-zen.git",
   "contributors": [
     {
@@ -77,7 +77,7 @@
     "lru-cache": "^4.0.1",
     "morgan": "^1.7.0",
     "request": "^2.64.0",
-    "zencashjs": "^1.2.7"
+    "zencashjs": "^2.0.2"
   },
   "devDependencies": {
     "chai": "^3.5.0",
