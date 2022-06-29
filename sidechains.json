@@ -2,5 +2,13 @@
   {
     "scid": "066b386efa5a2c54f4c284a1f605851e917974857efed93564e3315517e2dce2",
     "customName": "Web Wallet Sidechain"
+  },
+  {
+    "scid": "312d210ab35cc9ccba61efa4816efcd581b349eea0dc9df6c4b1a51b23f32eb4",
+    "customName": "TokenMint Chain Testnet"
+  },
+  {
+    "scid": "1e18829f9cc9904cadaddb613eb8fbca939d13754faee712be55ebb0dbd71bb4",
+    "customName": "TokenMint Chain Mainnet"
   }
 ]
