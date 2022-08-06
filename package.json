@@ -70,7 +70,7 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-zen": "HorizenOfficial/bitcore-lib-zen#v1.0.1",
+    "bitcore-lib-zen": "psyraxaus/bitcore-lib-zen",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^4.17.15",
